@@ -1,1 +1,38 @@
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/89f03f04-9f93-45d0-90ac-c12eef0ca356/view?access_token=329a9a0538b33080d40867ad94e840eda36384538e55a93aec8c6280d7b92a2c
+{
+    "nbformat_minor": 1, 
+    "cells": [
+        {
+            "source": "# This notebook will be mainly used for the capstone project.", 
+            "cell_type": "markdown", 
+            "metadata": {
+                "collapsed": true
+            }
+        }, 
+        {
+            "source": "import pandas as pd\nimport numpy as np", 
+            "cell_type": "code", 
+            "metadata": {}, 
+            "outputs": [], 
+            "execution_count": 1
+        }, 
+        {
+            "source": "print(\"Hello Capstone Project Course!\")", 
+            "cell_type": "code", 
+            "metadata": {}, 
+            "outputs": [
+                {
+                    "output_type": "stream", 
+                    "name": "stdout", 
+                    "text": "Hello Capstone Project Course!\n"
+                }
+            ], 
+            "execution_count": 2
+        }, 
+        {
+            "source": "", 
+            "cell_type": "code", 
+            "metadata": {}, 
+            "outputs": [], 
+            "execution_count": null
+        }
+    ], 
